@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.taoqiandai.cn/static/home/images/wei/111.png</string>
+					<string>http://sec.taoqiandai.cn/static/api/img/download57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.taoqiandai.cn/static/home/images/wei/222.png</string>
+					<string>http://sec.taoqiandai.cn/static/api/img/download512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
